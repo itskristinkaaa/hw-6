@@ -98,6 +98,10 @@ div.float-block-four {
 	vertical-align: top;
 }
 
+.float-block-four-sub {
+    width: 50%;
+}
+
 .float-block-four-sub > div {
 	height: 100px;
 	border: 2px solid black;
